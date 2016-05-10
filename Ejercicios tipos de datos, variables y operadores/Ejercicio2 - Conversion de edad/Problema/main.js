@@ -4,5 +4,5 @@ function persona() {
 	var edad = Number(prompt("¿Cuál es tu edad?"));
 	var days = edad * 365;
 }
-
+persona();
 
